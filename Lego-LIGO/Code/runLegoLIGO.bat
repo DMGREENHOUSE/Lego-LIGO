@@ -1,1 +1,1 @@
-python LIGO_GUI.py
+python Lego_LIGO_GUI.py
